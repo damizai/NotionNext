@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享生活',
   HEO_HERO_TITLE_2: '分享乐趣',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_3: '欢迎来到我的小站 😋！',
   HEO_HERO_TITLE_4: '欢迎来到我的小站 😋！',
   HEO_HERO_TITLE_5: '欢迎来到我的小站 😋！',
   HEO_HERO_TITLE_LINK: 'https://hexo.200038.xyz',
